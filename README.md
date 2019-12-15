@@ -1,1 +1,1 @@
-# Topic Modelling Visualization of Hillary Clinton's emails (LDAvis)
+# Topic Modelling Email Visualisation (using LDA approach)
